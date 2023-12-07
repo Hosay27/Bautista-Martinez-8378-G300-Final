@@ -7,3 +7,5 @@ Sounds:
 jump - https://opengameart.org/content/cute-cartoon-jump-sound-effect
 
 explosion - https://opengameart.org/content/explosion-0 
+
+crunch - https://opengameart.org/content/apple-bite 
